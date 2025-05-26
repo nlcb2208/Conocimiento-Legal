@@ -1,0 +1,191 @@
+Manual de Piezas Publicitarias de Bold
+Instrucciones Iniciales
+• El manual permite evaluar si una pieza publicitaria cumple con las exigencias normativas antes
+de ser publicada.
+• Se debe responder 'Sí', 'No' o 'N/A' a todas las preguntas formuladas en las tablas.
+
+Estructura del Manual
+• Pregunta: Interrogante a la que se debe responder 'Sí' o 'No'. Es necesario responder todas las
+preguntas.
+
+• Ejemplo a no seguir: Situaciones hipotéticas que reflejan un incumplimiento.
+• Descripción: Explicación resumida con el fundamento teórico de la pregunta.
+• Casilla 'Sí': Para marcar si la respuesta es afirmativa.
+• Casilla 'No': Para marcar si la respuesta es negativa.
+• Casilla 'N/A': Para marcar cuando el supuesto de la pregunta no aplica a la pieza publicitaria.
+• Aplicación: Indica la(s) sociedad(es) a la(s) que aplica la pregunta.
+• Desarrollo: Contiene hipervínculos al desarrollo normativo y teórico del requisito.
+
+Secciones del Manual
+• Parte 1 - Importancia Muy Alta: Aspectos fundamentales de la publicidad, por ser temas
+críticos, de incumplimiento muy grave o por servir como base para cumplir otros requisitos.
+
+• Parte 2 - Importancia Alta: Aspectos que deben cumplirse pero con menor trascendencia que
+los anteriores.
+
+• Parte 3 - Importancia Media: Aspectos que deben cumplirse pero con menor trascendencia,
+que podrían sanearse o cuyo incumplimiento es más difícil de identificar.
+
+¡Recuerda que sin importar la clasificación, la pieza publicitaria debería cumplir todos los
+requisitos!
+
+Parte 1 - Importancia Muy Alta
+Preguntas clave
+• ¿Tienes certeza de que podemos cumplir con toda la información objetiva en la pieza
+publicitaria?
+
+• Ejemplo a no seguir. Incluir un precio inferior al precio de mercado del datáfono, o un
+datáfono de un color que no ofrecemos.
+
+• Descripción: La información objetiva hace alusión a características inherentes al producto o
+servicio (cantidad, calidad, precio, etc.). Las condiciones objetivas anunciadas obligan al
+anunciante.
+• ¿Tienes certeza de la veracidad de toda afirmación o halago que hay en la pieza publicitaria?
+
+• Ejemplo a no seguir. "Ofrecemos el mejor servicio del mercado", "El datáfono más veloz",
+"Nadie iguala nuestro precio".
+
+• Descripción: La publicidad engañosa por acción ocurre cuando se exaltan características sin
+que correspondan a la realidad.
+• ¿Has incluido toda la información indispensable para que el consumidor tome una decisión
+frente a la pieza publicitaria?
+
+• Ejemplo a no seguir. Decir que hay payouts todos los días, sin indicar que es sólo días
+hábiles.
+
+• Descripción: La publicidad engañosa por omisión ocurre cuando se omite información
+indispensable e induce al error.
+• Si en la pieza publicitaria se indica el precio del producto o servicio, ¿este valor corresponde al
+costo total incluyendo todos los conceptos aplicables?
+
+• Ejemplo a no seguir. "Tu datáfono por 49.000 COP" (sin incluir impuestos).
+
+• Descripción: El precio debe corresponder al total del producto, incluidos impuestos o
+cargos adicionales, anunciado en forma clara y legible.
+• Si la pieza publicitaria realiza algún tipo de comparación con el producto o servicio de otra
+empresa, ¿ya fue enviada y aprobada por el área legal?
+
+• Ejemplo a no seguir. "Ofrecemos mejores tarifas que los otros datáfonos en el mercado".
+• Descripción: La SIC ha establecido criterios estrictos para la propaganda comercial
+comparativa.
+• Si la pieza publicitaria hace referencia de cualquier forma a una empresa competidora y sus
+productos, ¿ya fue enviada y aprobada por el área legal?
+
+• Ejemplo a no seguir. "Somos mejores que Redeban", o mostrar el mal funcionamiento de un
+datáfono de la competencia.
+
+• Descripción: Los mensajes publicitarios no pueden ser contrarios a la buena fe comercial ni
+establecer competencia desleal.
+• Si en la pieza publicitaria se incluye alguna promoción, ¿se indica la cantidad y calidad, así
+como la fecha de inicio y terminación de la misma?
+
+• Ejemplo a no seguir. "Por la compra de un datáfono adquiere el segundo con un 50% de
+descuento" (sin indicar vigencia).
+
+• Descripción: Es necesario identificar el producto promovido, el incentivo, su cantidad y
+calidad, e informar sobre plazo o vigencia.
+• Si la pieza publicitaria es para Bold CF, ¿apoyo la solidez del producto o servicio publicitado en
+motivos comprobables?
+
+• Ejemplo a no seguir. "La plataforma de pagos que hace más feliz a los comercios".
+• Descripción: Está prohibido apoyar la solidez de servicios en aspectos ajenos al verdadero
+sustento técnico, jurídico o económico.
+• Si la pieza publicitaria es para Bold CF, ¿todas las afirmaciones realizadas reflejan situaciones
+exactas?
+
+• Ejemplo a no seguir. Expresiones como "somos los primeros", "los mejores", "el indicado",
+sin especificar en qué.
+
+• Descripción: Está prohibido utilizar superlativos abstractos que no reflejen una situación
+exacta.
+• Si en la pieza publicitaria incluyes alguna obra artística, musical o literaria, ¿contamos con la
+autorización de su autor?
+
+• Ejemplo a no seguir. Incluir una canción sin haber obtenido autorización.
+• Descripción: No se pueden reproducir obras sin previa autorización y pago de
+remuneración correspondiente.
+• Si en la pieza publicitaria incluyes marcas, nombres, lemas o conceptos de terceros, ¿contamos
+con su debida autorización?
+
+• Ejemplo a no seguir. Incluir marcas de terceros, intactas o modificadas, sin autorización.
+• Descripción: No se pueden emplear marcas, lemas o nombres comerciales de terceros sin
+autorización.
+• Si en la pieza publicitaria se utiliza un diseño similar a uno ya existente de otra empresa,
+¿contamos con su debida autorización?
+
+• Ejemplo a no seguir. Utilizar los mismos colores y patrones que otro anunciante.
+• Descripción: No se pueden imitar diseños utilizados por otros anunciantes, ya que están
+protegidos.
+
+Parte 2 - Importancia Alta
+• Si existen condiciones o limitaciones especiales para la adquisición del producto o servicio,
+¿éstas se han incluido en la pieza publicitaria? ¿Se incluyen de manera igual de notoria al
+mensaje principal?
+
+• Ejemplo a no seguir. Incluir en la publicidad únicamente el descuento del 50%, o poner la
+condición de la compra en letra más pequeña.
+
+• Descripción: Es engañoso no incluir información sobre restricciones o limitaciones, o no
+darle similar notoriedad.
+• Si en la pieza publicitaria se ofrece un producto de forma gratuita ¿incluyo todas las
+condiciones que el consumidor debe cumplir para acceder a este incentivo?
+
+• Ejemplo a no seguir. "Te regalamos un forro", sin indicar que está supeditado a la compra
+de un datáfono.
+
+• Descripción: Es engañoso ofrecer productos gratuitos cuando la entrega está condicionada
+sin indicarlo.
+• ¿La imagen utilizada en la pieza publicitaria coincide con el producto o servicio promocionado?
+
+• Ejemplo a no seguir. Utilizar la imagen de un datáfono Bold en color azul o versiones que
+no corresponden al modelo ofrecido.
+
+• Descripción: La imagen debe corresponder con la del producto o servicio promocionado.
+• Si en la pieza publicitaria incluyo cifras financieras, ¿estas corresponden a cifras históricas, o a
+cifras variables indicando el periodo al cual corresponden?
+
+• Ejemplo a no seguir. "Vinculamos a más de 10.000 comercios" (sin indicar el periodo).
+• Descripción: Deben utilizarse cifras históricas o, si son variables, identificar claramente el
+período.
+• ¿Estás anunciando adecuadamente que la pieza publicitaria es de una compañía vigilada por la
+SFC?
+
+• Ejemplo a no seguir. No mencionar que la entidad es vigilada por la SFC.
+• Descripción: En la publicidad debe aludirse a la circunstancia de ser vigilada por la SFC.
+• Si la pieza publicitaria es para Bold CF, ¿tengo certeza de que las afirmaciones sobre el mercado
+financiero corresponden a situaciones definitivas?
+
+• Ejemplo a no seguir. "El depósito de bajo monto que te va a generar los mejores
+rendimientos financieros cada mes".
+
+• Descripción: Está prohibido presentar como definitivas situaciones coyunturales o variables.
+• Si la pieza publicitaria es para Bold CF, ¿informo en ella acerca de la sujeción al régimen de
+seguro de depósito, en caso de que aplique?
+
+• Ejemplo a no seguir. No mencionar que los depósitos están amparados por el seguro
+Fogafín.
+
+• Descripción: Las entidades financieras sujetas al régimen de seguro de depósito deben
+informar este hecho.
+
+Parte 3 - Importancia Media
+• ¿En la pieza publicitaria el producto o servicio se refleja con la calidad y el precio que realmente
+tiene? ¿La información de una promoción es igual a lo que realmente se ofrece?
+
+• Ejemplo a no seguir. Mostrar un precio rebajado por menor calidad sin advertirlo.
+• Descripción: Es engañoso establecer mecanismos para trasladar costos al consumidor sin
+que pueda advertirlo.
+• Si la pieza publicitaria recae sobre productos de modelos anteriores ¿se indica este hecho en la
+publicidad de manera clara y precisa?
+
+• Ejemplo a no seguir. No indicar que se trata de un modelo viejo o anterior.
+• Descripción: Es engañoso no indicar cuando se ofrecen productos de colecciones o
+modelos anteriores.
+• ¿Las palabras o frases en la pieza publicitaria se encuentren expresadas en idioma castellano?
+
+• Ejemplo a no seguir. Incluir palabras como "onboarding" o "payouts".
+• Descripción: Es engañoso no presentar en castellano la información indispensable para el
+manejo del producto.
+• Si es una venta por catálogo, ¿las imágenes incluyen las dimens
+
+
