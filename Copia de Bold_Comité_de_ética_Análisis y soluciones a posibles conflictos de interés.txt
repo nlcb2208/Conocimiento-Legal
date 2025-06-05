@@ -1,0 +1,310 @@
+﻿Bogotá, D.C., 11 de marzo de 2025
+
+
+
+
+Señores
+Comité de Ética Compañías Bold
+Ciudad
+
+
+Estimadas,
+
+
+El presente documento tiene como propósito establecer un marco de referencia y procedimientos claros para la identificación, evaluación y administración de los conflictos de interés que puedan surgir entre los empleados de nuestra compañía. Como parte del compromiso con los más altos estándares éticos y de gobierno corporativo, es fundamental contar con mecanismos efectivos que promuevan la transparencia y la integridad en todas nuestras operaciones.
+
+
+Un conflicto de interés ocurre cuando los intereses personales de un empleado interfieren o podrían interferir con su capacidad para actuar en beneficio de los intereses de la empresa. Estos conflictos pueden manifestarse de diversas formas y no siempre implican una conducta indebida; sin embargo, es esencial identificarlos oportunamente para gestionarlos de manera adecuada y prevenir situaciones que puedan comprometer la reputación e integridad de la organización.
+
+
+En las siguientes secciones, se presentará un análisis del formato de cuestionario utilizado para identificar conflictos de interés actuales, se identificarán las principales tipologías de conflictos en las que tienden a estar involucrados los empleados de la compañía, se establecerán criterios para la adecuada administración de cada tipología identificada y, finalmente, se proporcionarán modelos de comunicación para dar respuesta a los empleados que han revelado situaciones de conflicto.
+
+
+Este documento servirá como guía práctica para el Comité de Ética y todas las áreas involucradas en la gestión de conflictos de interés, con el objetivo de salvaguardar los valores corporativos y garantizar la objetividad en la toma de decisiones a todos los niveles de la organización.
+
+
+1. Análisis sobre el cuestionario para la identificación de conflictos de interés
+
+
+Después de revisar el formato actual de cuestionario para la identificación de conflictos de interés en Bold.Co S.A.S, se han identificado varios aspectos que podrían fortalecerse para garantizar una detección más efectiva y una mejor gestión de los potenciales conflictos.
+
+
+En primer lugar, el cuestionario actual carece de una referencia explícita al Código de Ética de la compañía. Esta vinculación es fundamental para contextualizar la declaración de conflictos dentro del marco ético general de la organización y reforzar la importancia de este proceso como parte integral de la cultura corporativa. Se recomienda incluir al inicio del documento una referencia directa al Código de Ética, especificando las secciones pertinentes que tratan sobre conflictos de interés.
+
+
+Un aspecto crítico que se debe mejorar es la ausencia de una definición clara e ilustrativa de lo que constituye un conflicto de interés. El cuestionario actual presupone que los empleados comprenden perfectamente este concepto, lo cual no siempre es cierto. Se recomienda incluir una definición amplia pero comprensible de conflicto de interés, acompañada de ejemplos concretos que faciliten su identificación. Adicionalmente, resulta conveniente explicar por qué la revelación de conflictos es importante tanto para la integridad de la organización como para la protección del propio empleado, fomentando así una cultura de transparencia.
+
+
+Respecto al formato utilizado, el actual sistema basado en documentos PDF dificulta significativamente la gestión, seguimiento y análisis de los datos recopilados. Se recomienda migrar hacia una plataforma digital o un sistema en línea que permita no solo la captura de información de manera más eficiente, sino también su almacenamiento seguro, actualización periódica y análisis estadístico. Un sistema digital permitiría además establecer alertas automáticas para actualizaciones anuales o cuando se produzcan cambios en la situación del empleado, así como facilitar la trazabilidad de las declaraciones a lo largo del tiempo.
+
+
+Otra oportunidad de mejora significativa se relaciona con la falta de precisión en términos clave. El cuestionario actual no especifica qué se entiende por "familiares", dejando a interpretación personal hasta qué grado de consanguinidad o afinidad debe considerarse. Se sugiere definir claramente que el término "familiares" abarca, como mínimo, a cónyuges, compañeros permanentes, padres, hijos, hermanos, abuelos, nietos, suegros, cuñados, yernos y nueras, así como a cualquier otro pariente que conviva con el empleado o que dependa económicamente de él. De igual manera, es necesario precisar que los "vínculos personales" incluyen relaciones sentimentales no formalizadas, amistades cercanas, compadrazgos, o cualquier otro tipo de relación que pudiera influir en la objetividad de las decisiones profesionales.
+
+
+Finalmente, una deficiencia notable en el cuestionario actual es la ausencia de preguntas específicas relacionadas con la recepción de dádivas, regalos, invitaciones o beneficios por parte de clientes, proveedores u otros terceros relacionados con la compañía. Esta es una de las formas más comunes de conflicto de interés y debe ser abordada explícitamente. Se recomienda incluir preguntas que indaguen sobre si el empleado ha recibido o tiene expectativa de recibir regalos, entretenimiento, descuentos especiales u otras ventajas que excedan lo que podría considerarse cortesía normal de negocios. Asimismo, el cuestionario debería preguntar sobre posibles ofrecimientos de viajes, hospedajes o participación en eventos patrocinados por terceros que tengan o puedan tener relaciones comerciales con la compañía.
+
+
+La implementación de estas mejoras en el formato de cuestionario contribuirá significativamente a una identificación más precisa de los conflictos de interés, facilitará su adecuada gestión y fortalecerá la cultura ética dentro de la organización.
+
+
+A continuación se presenta una propuesta de formulario:
+
+
+DECLARACIÓN DE CONFLICTOS DE INTERÉS
+Referencia: En cumplimiento con lo establecido en el Código de Ética de Bold.Co S.A.S, Capítulo [número], "Gestión de Conflictos de Interés", todos los empleados deben completar esta declaración.
+¿Qué es un conflicto de interés? Un conflicto de interés surge cuando sus intereses personales, financieros o de otra índole, o los de sus familiares o personas cercanas, podrían influir o parecer influir en su juicio profesional, decisiones o acciones en nombre de Bold.Co. Los conflictos pueden ser reales (ya existen), potenciales (podrían desarrollarse en el futuro) o aparentes (podrían ser percibidos por otros como conflictos aunque no lo sean realmente).
+¿Por qué es importante revelarlo? Revelar un conflicto de interés no implica necesariamente que exista una conducta indebida o que deba renunciar a ciertas actividades o relaciones. La transparencia nos permite evaluar la situación y determinar el mejor curso de acción para proteger tanto los intereses de la compañía como los suyos. No revelar un conflicto podría comprometer la integridad de la organización y exponerlo a usted a medidas disciplinarias.
+Definiciones importantes:
+* Familiares: Incluye cónyuge, compañero(a) permanente, padres, hijos, hermanos, abuelos, nietos, suegros, cuñados, yernos, nueras, así como cualquier otro pariente hasta cuarto grado de consanguinidad, segundo de afinidad o primero civil, o cualquier persona que conviva con usted o dependa económicamente de usted.
+* Vínculos personales: Incluye relaciones sentimentales no formalizadas, amistades cercanas, compadrazgos, así como cualquier otra relación personal que pudiera influir en su objetividad profesional.
+Instrucciones: Por favor, responda todas las preguntas con honestidad. Si responde "SÍ" a cualquier pregunta, proporcione los detalles solicitados.
+SECCIÓN 1: INTERESES FINANCIEROS Y PARTICIPACIONES
+1. ¿Usted o alguno de sus familiares (según la definición anterior) tiene participación en el capital social o acciones de alguna entidad financiera, Fintech, competidor, cliente o proveedor de Bold.Co?
+   * NO
+   * SÍ (Por favor especifique: Nombre de la entidad, porcentaje de participación, relación de la persona con usted)
+2. ¿Usted o alguno de sus familiares es propietario, socio o tiene interés financiero significativo en alguna empresa que actualmente es o busca ser proveedor, cliente o competidor de Bold.Co?
+   * NO
+   * SÍ (Por favor especifique: Nombre de la empresa, naturaleza del interés, relación de la persona con usted)
+SECCIÓN 2: RELACIONES CON OTRAS ORGANIZACIONES
+3. ¿Es usted miembro de algún órgano de administración (Junta Directiva, Consejo Directivo, Consejo de Administración, etc.) o representante legal de alguna entidad?
+   * NO
+   * SÍ (Por favor especifique: Nombre de la entidad, su cargo, naturaleza de la entidad, relación con Bold.Co si existe)
+4. ¿Alguno de sus familiares ocupa cargos directivos o es representante legal en organizaciones que mantienen o buscan mantener relaciones comerciales con Bold.Co?
+   * NO
+   * SÍ (Por favor especifique: Nombre de la persona, relación con usted, nombre de la organización, cargo)
+SECCIÓN 3: RELACIONES INTERNAS Y EXTERNAS
+5. ¿Tiene usted vínculos personales, familiares o de negocios con funcionarios de Bold.Co?
+   * NO
+   * SÍ (Por favor especifique: Nombre del funcionario, cargo, tipo de vínculo)
+6. ¿Tiene usted relación con alguna persona del sector financiero o fintech que pudiera crear un conflicto de interés con sus responsabilidades en Bold.Co?
+   * NO
+   * SÍ (Por favor especifique: Nombre de la persona, cargo, entidad, tipo de vínculo, naturaleza del posible conflicto)
+SECCIÓN 4: ACTIVIDADES EXTERNAS
+7. ¿Realiza usted actividades profesionales (remuneradas o no) por fuera de su jornada laboral en Bold.Co?
+   * NO
+   * SÍ (Por favor especifique: Tipo de actividad, entidad o persona para quien la realiza, tiempo dedicado semanalmente, posible superposición con sus funciones en Bold.Co)
+8. ¿Participa usted en alguna organización, asociación profesional o gremial cuyos intereses pudieran entrar en conflicto con los de Bold.Co?
+   * NO
+   * SÍ (Por favor especifique: Nombre de la organización, su rol, naturaleza del posible conflicto)
+SECCIÓN 5: REGALOS, INVITACIONES Y OTROS BENEFICIOS
+9. ¿Ha recibido usted en los últimos 12 meses regalos, invitaciones o beneficios (incluyendo descuentos especiales) de clientes, proveedores o terceros relacionados con Bold.Co, que superen un valor aproximado de [monto establecido por la política]?
+   * NO
+   * SÍ (Por favor especifique: Tipo de regalo/beneficio, valor aproximado, quién lo otorgó, fecha)
+10. ¿Ha sido invitado a eventos, viajes o programas de entretenimiento financiados por proveedores, clientes o socios de Bold.Co en los últimos 12 meses?
+   * NO
+   * SÍ (Por favor especifique: Tipo de evento, organizador, valor aproximado, si fue aceptado o no)
+11. ¿Está usted en posición de influir en la selección o evaluación de un proveedor, cliente o socio con quien tiene una relación personal o familiar?
+   * NO
+   * SÍ (Por favor especifique: Tipo de relación, entidad involucrada, naturaleza de su influencia)
+SECCIÓN 6: INFORMACIÓN ADICIONAL
+12. ¿Existe alguna otra situación que considere podría generar un conflicto de interés real, potencial o aparente, que no haya sido cubierta por las preguntas anteriores?
+   * NO
+   * SÍ (Por favor explique con detalle)
+DECLARACIÓN Y COMPROMISO
+Certifico que la información proporcionada en este formulario es completa, veraz y correcta según mi leal saber y entender. Entiendo que esta información puede ser verificada por Bold.Co.
+Me comprometo a actualizar esta declaración:
+* Anualmente, durante el periodo establecido por la compañía para tal fin.
+* Inmediatamente, si se produce algún cambio significativo en mi situación que pudiera generar un nuevo conflicto o modificar uno ya declarado.
+Entiendo que la no revelación de conflictos de interés o la provisión de información falsa puede resultar en medidas disciplinarias conforme al Reglamento Interno de Trabajo y a las políticas de la compañía.
+Nombre completo: ____________________ Documento de identidad: _______________ Cargo: ______________________________ Área/Departamento: ___________________ Fecha: ______________________________ Firma: ______________________________
+2. Identificación de tipologías de conflictos de interés en las que tienden a estar incursos los empleados de la compañía
+
+
+Para identificar las posibles tipologías de conflictos de interés se tomaron como base las revelaciones de los empleados que se incluyen en el siguiente documento: https://docs.google.com/document/d/1-zE4uxgncjv1_pfjL3RB2BJA3KCqd_Nhy_BVmFlBUZc/edit?tab=t.0 .
+
+
+Tras realizar un análisis exhaustivo de las revelaciones de conflictos de interés realizadas por los empleados de Bold.Co S.A.S mediante el cuestionario actual, se ha logrado identificar patrones recurrentes que permiten clasificar estas situaciones en categorías o tipologías definidas. Esta categorización resulta fundamental para desarrollar estrategias específicas de administración y mitigación que respondan adecuadamente a cada tipo de conflicto.
+El estudio de los 49 casos reportados en la compañía revela que los conflictos de interés tienden a concentrarse en seis tipologías principales, cada una con características y niveles de riesgo particulares. La distribución de estas tipologías refleja la naturaleza de las relaciones personales y profesionales que se establecen en una empresa del sector fintech, así como las particularidades de un mercado altamente especializado como el financiero y tecnológico.
+A continuación, se presenta un cuadro resumen de las tipologías identificadas, junto con su definición, la cantidad de casos detectados y su representación porcentual respecto al total:
+Tipología
+	Definición
+	Cantidad
+	Porcentaje
+	1. Vínculos familiares o personales dentro de la organización
+	Situaciones donde el empleado tiene familiares, cónyuges, parejas o amistades cercanas que también trabajan en Bold, especialmente cuando existe una relación jerárquica o potencial influencia en decisiones.
+	15
+	30.6%
+	2. Vínculos con el sector financiero o fintech externo
+	Casos donde el empleado o sus familiares cercanos trabajan en entidades financieras, fintechs o compañías del sector que podrían generar acceso a información privilegiada o conflictos de lealtad.
+	13
+	26.5%
+	3. Intereses financieros en otras entidades
+	Situaciones donde el empleado posee acciones, es propietario o tiene participación económica en otras empresas, especialmente aquellas del sector financiero, proveedores, clientes o competidores.
+	6
+	12.2%
+	4. Actividades profesionales paralelas
+	Casos donde el empleado realiza actividades laborales adicionales, remuneradas o no, fuera de su jornada laboral en Bold, que podrían competir por su tiempo y atención o generar conflictos de interés.
+	10
+	20.4%
+	5. Emprendimientos o negocios propios
+	Situaciones donde el empleado es dueño, cofundador o administra negocios propios que, aunque no estén directamente relacionados con las actividades de Bold, podrían demandar tiempo y recursos o eventualmente convertirse en proveedores, clientes o competidores.
+	4
+	8.2%
+	6. Otros
+	Casos que no encajan claramente en las categorías anteriores o representan situaciones muy específicas que requieren análisis individual.
+	1
+	2.0%
+	Total
+	
+
+	49
+	100%
+	
+
+Esta categorización de tipologías no solo permite comprender mejor la naturaleza y frecuencia de los conflictos de interés en la organización, sino que también proporciona una base sólida para el desarrollo de estrategias de administración específicas para cada categoría, maximizando así la efectividad de las acciones preventivas y correctivas que se implementen.
+
+
+3. Concepto sobre la posible forma de administrar cada una de las tipologías de conflicto de interés 
+
+
+Una vez identificadas las principales tipologías de conflictos de interés presentes en Bold.Co S.A.S., resulta fundamental establecer criterios claros y sistemáticos para evaluar cada situación y determinar las acciones más apropiadas para su adecuada administración. Con este objetivo, se propone implementar un sistema de clasificación tipo "semáforo" que permita categorizar los conflictos según su nivel de riesgo y la urgencia de intervención requerida.
+
+
+El sistema de semáforo propuesto consiste en tres niveles de clasificación:
+
+
+* Nivel Verde (Bajo riesgo): Situaciones que han sido adecuadamente reportadas y que, tras su evaluación, se determina que no representan un riesgo significativo para la compañía ni comprometen la objetividad del empleado en el desempeño de sus funciones. Estos casos requieren únicamente registro y seguimiento regular, pudiendo el Comité de Ética emitir recomendaciones o sugerencias preventivas sin necesidad de implementar medidas restrictivas.
+* Nivel Amarillo (Riesgo medio): Situaciones que, si bien no contravienen directamente las políticas de la compañía, presentan elementos que podrían evolucionar hacia conflictos más serios si no se gestionan adecuadamente. Estos casos requieren un monitoreo constante por parte del Comité de Ética, implementación de medidas preventivas específicas y reevaluaciones periódicas para verificar que el nivel de riesgo no se incremente.
+* Nivel Rojo (Alto riesgo): Situaciones que representan una clara contradicción con las políticas de la compañía o que por su naturaleza implican un riesgo significativo para la integridad, reputación o intereses de Bold.Co. Estos casos requieren intervención inmediata, implementación de medidas correctivas contundentes y, en algunas circunstancias, pueden requerir decisiones drásticas como la reasignación del empleado o la eliminación del conflicto mediante la desvinculación de la relación externa.
+
+
+A continuación, se presenta un análisis detallado para cada una de las tipologías identificadas, incluyendo los criterios específicos que determinan la clasificación de cada caso en el sistema de semáforo.
+
+
+   1. Vínculos familiares o personales dentro de la organización
+
+
+Nivel
+	Criterios
+	Verde (Bajo riesgo)
+	* Relaciones entre empleados de diferentes áreas sin interacción laboral directa.
+* Amistades o relaciones que no involucran subordinación directa ni capacidad de influencia en decisiones que afecten al otro.
+* Familiares lejanos (primos segundos o más distantes) sin interacción profesional significativa
+	Amarillo (Riesgo medio)
+	* Relaciones entre empleados del mismo departamento pero sin línea directa de reporte
+* Familiares cercanos (hermanos, primos hermanos) en diferentes áreas pero con potencial interacción profesional.
+* Relaciones sentimentales entre empleados del mismo nivel jerárquico sin subordinación.
+* Amistades cercanas con potencial influencia indirecta en decisiones profesionales
+	Rojo (Alto riesgo)
+	* Relaciones conyugales o sentimentales donde existe subordinación directa.
+* Familiares directos (padres, hijos, hermanos, cónyuges) en relación jerárquica (uno supervisa al otro).
+* Parientes que trabajan en áreas sensibles como recursos humanos, finanzas o auditoría con capacidad de influir en decisiones que afecten directamente al familiar.
+* Vínculos entre un empleado y un directivo con poder de decisión sobre promociones, compensaciones o asignaciones de proyectos
+	Para determinar el nivel de riesgo se debe considerar: (1) la proximidad del vínculo familiar o personal, (2) el nivel de influencia que una persona puede ejercer sobre la otra, (3) la sensibilidad de la información a la que ambas partes tienen acceso, y (4) el impacto potencial en la objetividad de las decisiones.
+
+
+   2. Vínculos con el sector financiero o fintech externo
+Nivel
+	Criterios
+	Verde (Bajo riesgo)
+	* Familiares en posiciones operativas en entidades financieras sin acceso a información estratégica o confidencial.
+* Vínculos con personas en entidades financieras que no compiten directamente con Bold.Co.
+* Relaciones con personas en entidades del sector financiero en áreas no relacionadas con las actividades de Bold.Co
+	Amarillo (Riesgo medio)
+	* Familiares cercanos en posiciones de nivel medio en entidades financieras competidoras.
+* Cónyuges o parejas que trabajan en entidades del sector con acceso limitado a información confidencial.
+* Relaciones con personas que trabajan en áreas similares o complementarias a las de Bold.Co.
+* Vínculos con personas en entidades que son clientes o proveedores actuales o potenciales de Bold.Co
+	Rojo (Alto riesgo)
+	* Cónyuges o familiares directos en posiciones directivas o estratégicas en entidades competidoras directas.
+* Vínculos con personas que manejan información altamente sensible o estratégica en el sector.
+* Relaciones con ejecutivos de alto nivel en empresas competidoras, proveedores clave o reguladores del sector.
+* Familiares en posiciones que implican negociación directa o toma de decisiones que podrían afectar a Bold.Co
+	Los factores determinantes incluyen: (1) la naturaleza de la relación de la entidad externa con Bold.Co (competidor, proveedor, cliente, regulador), (2) el nivel de acceso a información confidencial de ambas partes, (3) la capacidad de influencia en decisiones que afecten a Bold.Co, y (4) el potencial impacto reputacional.
+   3. Intereses financieros en otras entidades
+
+
+Nivel
+	Criterios
+	Verde (Bajo riesgo)
+	* Inversiones menores (menos del 1% del capital) en empresas públicas del sector.
+* Participaciones en fondos de inversión diversificados que pueden incluir acciones del sector financiero.
+* Intereses financieros en empresas no relacionadas con el sector financiero o tecnológico
+	Amarillo (Riesgo medio)
+	* Participaciones significativas (entre 1% y 5%) en empresas del sector.
+* Inversiones en startups o empresas privadas del sector financiero o tecnológico.
+* Acciones o participaciones en proveedores, clientes o socios de Bold.Co.
+* Intereses financieros que podrían influir indirectamente en la objetividad de decisiones profesionales
+	Rojo (Alto riesgo)
+	* Participaciones mayoritarias o de control en empresas competidoras.
+* Intereses financieros significativos (más del 5%) en competidores directos.
+* Inversiones sustanciales en proveedores o clientes clave con los que el empleado tiene relación directa.
+* Posiciones como accionista principal o miembro de junta directiva en entidades del sector
+	Se debe analizar: (1) el porcentaje de participación o monto de la inversión, (2) la relación de la entidad con Bold.Co, (3) la capacidad del empleado para influir en decisiones que afecten a ambas entidades, y (4) la transparencia en la declaración de estos intereses.
+   4. Actividades profesionales paralelas
+
+
+Nivel
+	Criterios
+	Verde (Bajo riesgo)
+	* Actividades académicas (docencia, investigación) en áreas no relacionadas con el sector.
+* Participación ocasional en conferencias o eventos como ponente.
+* Actividades culturales, deportivas o de voluntariado sin fines de lucro.
+* Trabajos esporádicos que no interfieren con las responsabilidades en Bold.Co
+	Amarillo (Riesgo medio)
+	* Consultorías o asesorías regulares en áreas relacionadas con el sector.
+* Docencia o formación en temas relacionados con fintech o servicios financieros.
+* Actividades que requieren un compromiso significativo de tiempo fuera del horario laboral.
+* Colaboraciones remuneradas con organizaciones del sector que no compiten directamente
+	Rojo (Alto riesgo)
+	* Empleo simultáneo en otra entidad del sector financiero o tecnológico.
+* Consultorías para competidores directos<br>• Actividades profesionales que implican acceso a información confidencial de la competencia.
+* Roles que generan conflictos de tiempo o dedicación significativos con sus responsabilidades en Bold.Co
+	Los factores a considerar son: (1) la naturaleza y frecuencia de la actividad paralela, (2) la relación temática con las funciones en Bold.Co, (3) el impacto en el tiempo y dedicación al trabajo principal, y (4) el potencial para generar conflictos de lealtad o confidencialidad.
+   5. Emprendimientos o negocios propios
+
+
+Nivel
+	Criterios
+	Verde (Bajo riesgo)
+	* Negocios en sectores no relacionados (restaurantes, comercio minorista, servicios personales).
+* Participación pasiva como inversionista minoritario en emprendimientos ajenos al sector.
+* Negocios familiares establecidos antes de ingresar a Bold.Co sin relación con el sector.
+* Actividades de emprendimiento en fase inicial que no compiten por tiempo ni recursos
+	Amarillo (Riesgo medio)
+	* Emprendimientos en sectores adyacentes o complementarios<br>• Negocios propios que demandan tiempo y atención significativos.
+* Startups tecnológicas con potencial de convertirse en proveedores o clientes.
+* Participación activa en negocios que podrían generar conflictos de tiempo o dedicación
+	Rojo (Alto riesgo)
+	* Emprendimientos en el sector fintech o financiero que compiten directamente.
+* Negocios propios que son o buscan ser proveedores de Bold.Co.
+* Startups que desarrollan soluciones similares o competitivas.
+* Roles como fundador o ejecutivo en empresas del sector con dedicación significativa
+	Se debe considerar: (1) la relación del emprendimiento con el sector y con Bold.Co, (2) el nivel de participación y dedicación requerido, (3) el potencial para convertirse en competidor, proveedor o cliente, y (4) la transparencia en la revelación de la actividad.
+   6. Otros tipos de conflictos
+
+
+Nivel
+	Criterios
+	Verde (Bajo riesgo)
+	* Situaciones atípicas con impacto mínimo en la objetividad o desempeño.
+* Casos que no implican beneficio económico directo ni compromiso de tiempo significativo.
+* Circunstancias que no afectan a áreas sensibles de la organización
+	Amarillo (Riesgo medio)
+	* Situaciones que podrían evolucionar hacia conflictos más serios.
+* Casos que requieren evaluación periódica por su naturaleza cambiante.
+* Circunstancias que, aunque no estén contempladas explícitamente en las políticas, generan dudas razonables sobre su impacto.
+	Rojo (Alto riesgo)
+	* Situaciones no clasificables en otras categorías pero con claro potencial de daño.
+* Casos que implican posibles violaciones legales o regulatorias.
+* Circunstancias excepcionales que requieren intervención inmediata por su gravedad
+	Para esta categoría residual, es fundamental un análisis caso por caso considerando: (1) el potencial impacto en la objetividad y desempeño, (2) las implicaciones legales y regulatorias, (3) el efecto en la reputación de la compañía, y (4) los precedentes establecidos en situaciones similares.
+Una vez realizada la clasificación mediante el sistema de semáforo, se recomienda implementar las siguientes acciones para cada nivel:
+Nivel Verde (Bajo riesgo):
+* Registro formal del conflicto en la base de datos del Comité de Ética
+* Comunicación al empleado reconociendo la transparencia en su revelación
+* Sugerencias o recomendaciones preventivas cuando sea pertinente
+* Revisión anual durante el proceso regular de actualización de declaraciones
+Nivel Amarillo (Riesgo medio):
+* Elaboración de un plan de monitoreo específico con revisiones trimestrales
+* Implementación de medidas preventivas como restricciones parciales de acceso a información
+* Comunicación formal al empleado y su supervisor sobre las medidas adoptadas
+* Documentación detallada del caso y las acciones de mitigación
+* Reevaluación periódica para determinar si el nivel de riesgo ha cambiado
+Nivel Rojo (Alto riesgo):
+* Intervención inmediata del Comité de Ética y la alta dirección
+* Implementación de medidas correctivas como reasignación de responsabilidades, cambio de área o modificación de la relación de reporte
+* En casos extremos, solicitud de desvinculación de la relación externa o venta de intereses financieros en conflicto
+* Seguimiento riguroso con evaluaciones mensuales hasta la resolución efectiva del conflicto
+* Documentación exhaustiva de todo el proceso y las decisiones tomadas
+La implementación de este sistema de clasificación y administración de conflictos de interés permitirá a Bold.Co S.A.S. gestionar de manera eficiente y proporcional las diferentes situaciones que puedan surgir, protegiendo tanto los intereses de la organización como la integridad y desarrollo profesional de sus empleados.
