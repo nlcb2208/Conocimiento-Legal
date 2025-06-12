@@ -1,0 +1,168 @@
+﻿Formulario Actividad de Alto Riesgo
+Preguntas:
+
+
+Pregunta 1: ¿Cuál es el código (CIIU) de la actividad económica que realizas?
+* Pregunta Abierta
+
+
+Pregunta 2: Describa en detalle los productos o servicios principales que ofrece su negocio
+* Pregunta Abierta
+
+
+Pregunta 3: ¿Quiénes son sus principales clientes?
+* Opciones: Personas naturales, Personas jurídicas, Instituciones o entidades de gobierno, ONG o fundaciones, Otros comercios minoristas
+
+
+Pregunta 4: ¿Bajo qué nombre comercial o marca(s) ofrece sus productos o servicios? Si utiliza múltiples marcas, por favor indique todas las que estén asociadas a las transacciones procesadas a través de Bold.
+* Pregunta Abierta
+
+
+Pregunta 5: ¿Cuáles son sus canales de venta principales
+* Opciones: Físico, Online, Marketplace, Redes Sociales, Ventas Telefónicas, Otro
+
+
+Pregunta 6: Por favor indique las direcciones de su página web, marketplaces y/o perfiles en redes sociales donde promociona u ofrece sus productos o servicios.
+
+
+Pregunta 7: ¿Cuenta con establecimiento(s) físico(s) para la atención al público?
+* Opciones: Sí, No
+
+
+Profundización 7.1: Por favor indique la dirección principal y la dirección de sus sucursales
+* Pregunta Abierta
+
+
+Pregunta 8: ¿Qué porcentaje de sus transacciones se realiza en efectivo frente a medios electrónicos?
+
+
+Pregunta 9: ¿Cuál es su horario habitual de atención o de procesamiento de transacciones?
+
+
+Pregunta 10: ¿Cuál es el valor promedio y máximo de cada una de sus transacciones habituales?
+
+
+Pregunta 11: ¿Realiza o recibe pagos desde/hacia el exterior?
+
+
+Profundización 11.1: ¿Con qué países mantiene relaciones comerciales?
+* Pregunta Abierta
+ 
+Pregunta 12: ¿Su negocio opera estacionalmente o tiene temporadas de mayor actividad? Por favor descríbalas
+
+
+
+
+Palancas Actividad de Riesgo Alto:
+
+
+Palanca 1 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
+
+
+* En la pregunta ¿Cuál es el código (CIIU) de la actividad económica que realizas? el cliente debió responder que no tiene código CIIU
+
+
+Palanca 2 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
+
+
+* En la pregunta ¿Quiénes son sus principales clientes? lista de opciones: personas naturales, personas jurídicas, instituciones o entidades de gobierno, ONG o fundaciones, otros comercios minoristas.el cliente debió responder instituciones o entidades de gobierno y ONG's 
+
+
+Palanca 3 - Para que se active esta Palanca se deben cumplir las siguientes condiciones:  
+* En la pregunta ¿Cuáles son sus canales de venta principales? (Físico, online, marketplace, redes sociales, ventas telefónicas, etc.)  el cliente debió responder que no tiene punto físico ni redes sociales (deben cumplirse ambas)
+* En la pregunta Por favor indique las direcciones de su página web, marketplaces y/o perfiles en redes sociales donde promociona u ofrece sus productos o servicios. el cliente debió responder que no tiene presencia en redes sociales, ni marketplace
+* En la pregunta ¿Cuenta con establecimiento(s) físico(s) para la atención al público? el cliente debió responder que no tiene punto físico
+
+
+Palanca 4 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
+* En la pregunta ¿Cuál es su horario habitual de atención o de procesamiento de transacciones? el cliente debió que tiene horario de atención nocturno
+
+
+Palanca 5 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
+* En la pregunta ¿Realiza o recibe pagos desde/hacia el exterior? En caso afirmativo, ¿con qué países mantiene relaciones comerciales? el cliente debió responder que sí y el país aparece en el Listado de Jurisdicciones de alto riesgo
+
+
+Listado de Países de Alto Riesgo: 
+
+
+
+
+	Afganistán
+	Angola
+	Anguila
+	Antigua y Barbuda
+	Argelia
+	Barbados
+	Belice
+	Bielorrusia
+	Bosnia y Herzegovina
+	Brunei
+	Bulgaria
+	Burkina Faso
+	Burundi
+	Camerún
+	China
+	Cisjordania
+	Corea del Norte
+	Costa de Marfil
+	Croacia
+	Cuba
+	Darfur
+	Emiratos Árabes Unidos
+	Eswatini
+	Etiopía
+	Fiji
+	Filipinas
+	Gibraltar
+	Guam
+	Guatemala
+	Guinea
+	Guinea Bissau
+	Haití
+	Hong Kong
+	Irak
+	Irán
+	Islas Vírgenes Británicas
+	Islas Vírgenes de los EE.UU.
+	Jamaica
+	Kenia
+	Laos
+	Líbano
+	Libia
+	Malí
+	Moldavia
+	Mónaco
+	Montenegro
+	Mozambique
+	Myanmar (Birmania)
+	Namibia
+	Nepal
+	Nicaragua
+	Nigeria
+	Nigeria
+	Palaos
+	Panamá
+	República de África Central
+	República Democrática del Congo
+	Rusia
+	Samoa
+	Samoa Americana
+	Senegal
+	Serbia
+	Seychelles
+	Siria
+	Somalia
+	Sudáfrica
+	Sudán
+	Sudán del Sur
+	Tanzania
+	Trinidad y Tobago
+	Túnez
+	Turquía
+	Ucrania
+	Uganda
+	Vanuatu
+	Venezuela
+	Vietnam
+	Yemen
+	Zimbabue
