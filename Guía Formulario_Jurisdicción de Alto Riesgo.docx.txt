@@ -1,326 +1,565 @@
-﻿Formulario Jurisdicción de Alto Riesgo
+Formulario Jurisdicción de Alto Riesgo
 Preguntas:
-
 
 Pregunta 1: ¿Te registraste en Bold como Persona Natural o como Persona Jurídica?
 
-
 Preguntas Persona Natural
 
-
 Pregunta 2: ¿Cuál es tu tipo de documento?
-* Opciones: CE, C.C.
-
+Opciones: CE, C.C.
 
 Pregunta 3: ¿Cuál es tu No. de documento?
-* Pregunta abierta
-
+Pregunta abierta
 
 Pregunta 4: ¿Tienes negocios o inversiones en tu país de origen?
-* Opciones: Sí, No
-
+Opciones: Sí, No
 
 Profundización 4.1: ¿Los negocios o inversiones que tienes en tu país de origen están relacionados con la actividad económica que desarrollarás con Bold? 
-* Opciones: Sí, No
+Opciones: Sí, No
 
+*Incluir aclaración de esta pregunta 
 
 Pregunta 5: ¿Recibes ingresos provenientes de tu país de origen o de otros países?
-* Opciones: Sí, No
+Opciones: Sí, No
 
-
+*Incluir detalle con pregunta de aclaración 
 Profundización 5.1: ¿De qué países recibes ingresos? 
-* Pregunta abierta
-
+Pregunta abierta
 
 Profundización 5.2:  ¿Estos ingresos serán canalizados por los productos de Bold?
-* Opciones: Sí, No
-
+Opciones: Sí, No
 
 Pregunta 6: ¿Realizas transferencias internacionales frecuentes relacionadas con negocios y/o vínculos comerciales hacia o desde tu país de origen?
-* Opciones: Sí, No
+Opciones: Sí, No
 Profundización 6.1: ¿Por qué concepto son las transferencias?
-* Pregunta abierta
-
+Pregunta abierta
 
 Profundización 6.2: ¿Por cuál actividad económica realiza estas transferencias?
-* Pregunta abierta
-
+Pregunta abierta
 
 Profundización 6.3: ¿Las transacciones que realiza desde el país tercero están relacionadas con la misma actividad económica declarada a Bold o corresponden a otro tipo de operaciones?
-* Opciones: Sí, No
-
+Opciones: Sí, No
 
 Palancas Persona Natural: 
 
-
 Palanca 1 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
-* En la pregunta ¿Tienes negocios o inversiones en tu país de origen? el cliente debió responder Sí
-* En la pregunta ¿Los negocios o inversiones que tienes en tu país de origen están relacionados con la actividad económica que desarrollarás con Bold?  el cliente debió responder Sí
-
+En la pregunta ¿Tienes negocios o inversiones en tu país de origen? el cliente debió responder Sí
+En la pregunta ¿Los negocios o inversiones que tienes en tu país de origen están relacionados con la actividad económica que desarrollarás con Bold?  el cliente debió responder Sí
 
 Palanca 2 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
-* En la pregunta ¿Recibes ingresos provenientes de tu país de origen o de otros países? el cliente debió responder que sí
-* En la pregunta ¿De qué países recibes ingresos? Si únicamente recibes ingresos de tu país de origen por favor decláralo el cliente debió responder con un país (o países) que se encuentre en el Listado de Países de Alto Riesgo
-* En la pregunta ¿Los negocios o inversiones que tienes en tu país de origen están relacionados con la actividad económica que desarrollarás con Bold? el cliente debió responder que Sí
-
+En la pregunta ¿Recibes ingresos provenientes de tu país de origen o de otros países? el cliente debió responder que sí
+En la pregunta ¿De qué países recibes ingresos? Si únicamente recibes ingresos de tu país de origen por favor decláralo el cliente debió responder con un país (o países) que se encuentre en el Listado de Países de Alto Riesgo
+En la pregunta ¿Los negocios o inversiones que tienes en tu país de origen están relacionados con la actividad económica que desarrollarás con Bold? el cliente debió responder que Sí
 
 Palanca 3 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
-* Para la pregunta ¿Realizas transferencias internacionales frecuentes relacionadas con negocios y/o vínculos comerciales hacia o desde tu país de origen? el cliente debió responder Sí
-* Para la pregunta ¿Las transacciones que realiza desde el país tercero están relacionadas con la misma actividad económica declarada a Bold o corresponden a otro tipo de operaciones? el cliente debió responder Sí
-
+Para la pregunta ¿Realizas transferencias internacionales frecuentes relacionadas con negocios y/o vínculos comerciales hacia o desde tu país de origen? el cliente debió responder Sí
+Para la pregunta ¿Las transacciones que realiza desde el país tercero están relacionadas con la misma actividad económica declarada a Bold o corresponden a otro tipo de operaciones? el cliente debió responder Sí
 
 Preguntas Persona Jurídica
 
-
 Pregunta 1: ¿Cuál es el país de constitución de la persona jurídica?
-* Pregunta abierta
-
+Pregunta abierta
 
 Pregunta 2: Por favor introduce el NIT. de tu comercio
-* Pregunta abierta
-
+Pregunta abierta
 
 Pregunta 3: ¿Cuál es el país de constitución de la Persona Jurídica?
-* Pregunta abierta
-
+Pregunta abierta
 
 Pregunta 4: ¿Recibe la Persona Jurídica ingresos de otros países?
-* Opciones: Sí, No
-
+Opciones: Sí, No
 
 Profundización 4.1: ¿El concepto por el cual se reciben estos ingresos está relacionado con la actividad que se pretende desarrollar con los servicios de Bold?
-* Opciones: Sí, No
+Opciones: Sí, No
  
 Profundización 4.2: ¿De qué país provienen estos ingresos? (Mencione los 5 con mayor participación)
-* Pregunta abierta
-
+Pregunta abierta
 
 Profundización 4.3: ¿Las transacciones que realiza desde el país tercero están relacionadas con la misma actividad económica declarada a Bold o corresponden a otro tipo de operaciones?
-* Opciones: Están relacionadas con la misma actividad económica declarada a Bold, Corresponden a otro tipo de operaciones
-
+Opciones: Están relacionadas con la misma actividad económica declarada a Bold, Corresponden a otro tipo de operaciones
 
 Pregunta 5: ¿Mantiene la Persona Jurídica  negocios o inversiones en un país distinto a Colombia?
-* Opciones: Sí, No
-
+Opciones: Sí, No
 
 Profundización 5.1: ¿De qué tipo son los negocios o inversiones?
-* Pregunta abierta
-
+Pregunta abierta
 
 Profundización 5.2:  ¿De qué país son las inversiones señaladas?  (Mencione los 5 con mayor participación)
-* Pregunta abierta
-
+Pregunta abierta
 
 Pregunta 6: ¿Posee la Persona Jurídica filiales o sucursales en un país distinto a Colombia?
-* Opciones: Sí, No
-
+Opciones: Sí, No
 
 Profundización 6.1: Por favor, nombre las filiales/sucursales y la relación con el país en el que se encuentra 
-* Pregunta abierta
-
+Pregunta abierta
 
 Profundización 6.2: ¿En cuáles países se encuentran estas filiales o sucursales?  (Mencione los 5 países)
-* Pregunta abierta
-
-
+Pregunta abierta
 
 
 Palancas Persona Jurídica:
 
-
 Palanca 1 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
-* En la pregunta ¿Cuál es el país de constitución de la persona jurídica? el cliente debió responder con un país que se encuentra en la lista de países de alto riesgo 
-
+En la pregunta ¿Cuál es el país de constitución de la persona jurídica? el cliente debió responder con un país que se encuentra en la lista de países de alto riesgo 
 
 Palanca 2 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
-* En la pregunta ¿Recibe la Persona Jurídica ingresos de otros países? el cliente debió responder que sí
-* En la pregunta ¿El concepto por el cual se reciben estos ingresos está relacionado con la actividad que se pretende desarrollar con los servicios de Bold? el cliente debió responder Sí
-* En la pregunta ¿De qué país provienen estos ingresos? (Mencione los 5 con mayor participación) el cliente debió responder con un país (o países) que se encuentre en el Listado de Países de Alto Riesgo
-
+En la pregunta ¿Recibe la Persona Jurídica ingresos de otros países? el cliente debió responder que sí
+En la pregunta ¿El concepto por el cual se reciben estos ingresos está relacionado con la actividad que se pretende desarrollar con los servicios de Bold? el cliente debió responder Sí
+En la pregunta ¿De qué país provienen estos ingresos? (Mencione los 5 con mayor participación) el cliente debió responder con un país (o países) que se encuentre en el Listado de Países de Alto Riesgo
 
 Palanca 3 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
-* En la pregunta ¿Las transacciones que realiza desde el país tercero están relacionadas con la misma actividad económica declarada a Bold o corresponden a otro tipo de operaciones? el cliente debió responder Están relacionadas con la misma actividad económica declarada a Bold
-
+En la pregunta ¿Las transacciones que realiza desde el país tercero están relacionadas con la misma actividad económica declarada a Bold o corresponden a otro tipo de operaciones? el cliente debió responder Están relacionadas con la misma actividad económica declarada a Bold
 
 Palanca 4 - Para que se active esta Palanca se deben cumplir las siguientes condiciones:  
-* En la pregunta ¿Mantiene la Persona Jurídica  negocios o inversiones en un país distinto a Colombia? el cliente debió responder Sí
-* En la pregunta ¿De qué país son las inversiones señaladas?  (Mencione los 5 con mayor participación) el cliente debió responder con un país (o países) que se encuentre en el Listado de Países de Alto Riesgo
-
+En la pregunta ¿Mantiene la Persona Jurídica  negocios o inversiones en un país distinto a Colombia? el cliente debió responder Sí
+En la pregunta ¿De qué país son las inversiones señaladas?  (Mencione los 5 con mayor participación) el cliente debió responder con un país (o países) que se encuentre en el Listado de Países de Alto Riesgo
 
 Palanca 5 - Para que se active esta Palanca se deben cumplir las siguientes condiciones: 
-* En la pregunta ¿Posee la Persona Jurídica filiales o sucursales en un país distinto a Colombia? el cliente debió responder Sí
-* En la pregunta ¿En cuáles países se encuentran estas filiales o sucursales?  (Mencione los 5 países) el cliente debió responder con un país (o países) que se encuentre en el Listado de Países de Alto Riesgo
+En la pregunta ¿Posee la Persona Jurídica filiales o sucursales en un país distinto a Colombia? el cliente debió responder Sí
+En la pregunta ¿En cuáles países se encuentran estas filiales o sucursales?  (Mencione los 5 países) el cliente debió responder con un país (o países) que se encuentre en el Listado de Países de Alto Riesgo
+
+Sección de clientes provenientes de Venezuela - Sancionado OFAC
+Pregunta 1: ¿Mantienes negocios, inversiones o vínculos comerciales en Venezuela relacionados con alguno de los siguientes sectores?  
+Opciones (Selección Múltiple):
+Petróleo e Hidrocarburos (incluyendo diluyentes)
+Oro y Minería
+Sector Financiero (Bonos soberanos)
+Gobierno / Sector Público
+Ninguno de los anteriores.
+Pregunta 2: ¿Tu negocio realiza operaciones relacionadas con la extracción, comercialización, venta o exportación de oro desde Venezuela?  
+Opciones (Selección Múltiple):
+Sí
+No
+Pregunta 3: ¿Tu actividad implica la compra, venta o custodia de bonos de deuda pública de Venezuela o de PDVSA emitidos después del 25 de agosto de 2017?
+Opciones (Selección Múltiple):
+Sí
+No
+Pregunta 4: ¿Es tu empresa una entidad propiedad del Estado venezolano, o el Estado venezolano (incluyendo PdVSA o el Banco Central) posee directa o indirectamente el 50% o más de sus acciones? 
+Opciones (Selección Múltiple):
+Sí
+No
+Pregunta 5: Utilizas servicios de carga o logística de la aerolínea CONVIASA o navieras estatales venezolanas para fines comerciales?  
+Opciones (Selección Múltiple):
+Sí
+No
+Pregunta 6: ¿Recibes ingresos provenientes de entidades gubernamentales de Venezuela o empresas estatales (por ejemplo de PdVSA/CORPOELEC)?  
+Opciones (Selección Múltiple):
+Sí
+No
+Pregunta 7: ¿Realiza transacciones utilizando la moneda digital estatal 'Petro'? 
+Opciones (Selección Múltiple):
+Sí
+No
+Pregunta 8: ¿Ocupas actualmente, o has ocupado en el último año, algún cargo como funcionario del Gobierno de Venezuela, incluyendo agencias estatales, el Banco Central de Venezuela o PdVSA?
+Opciones (Selección Múltiple):
+Sí
+No
+Palancas de Riesgo (Lógica de Activación)
+Se le debe asignar un nivel de riesgo ALTO a los clientes que cumplan cualquiera de los siguientes requisitos: 
+Si en la Pregunta 1 marcó cualquiera de las siguientes opciones: 
+Petróleo e Hidrocarburos (incluyendo diluyentes)
+Oro y Minería
+Sector Financiero (Bonos soberanos)
+Gobierno / Sector Público
+Si en la Pregunta 2 respondió Sí
+Si en la Pregunta 3 respondió Sí
+Si en la Pregunta 4 respondió Sí
+Si en la Pregunta 5 respondió Sí
+Si en la Pregunta 6 respondió Sí
+Si en la Pregunta 7 respondió Sí
+Si en la Pregunta 8 respondió Sí
+Lista de Países 
+
+Países Sancionados OFAC
+
+País/Región
+Tipo de Sanción
+Fecha de Última Actualización del Programa
+Bielorrusia
+Específica
+11 de septiembre de 2025
+Birmania (Myanmar)
+Específica
+25 de septiembre de 2025
+Corea del Norte
+General
+25 de septiembre de 2025
+Cuba
+General
+27 de agosto de 2024
+China
+Específica
+01 de junio de 2022
+Hong Kong
+Específica
+31 de marzo de 2025
+Irán
+General
+09 de octubre de 2025
+Irak
+Específica
+09 de julio de 2025
+Líbano
+Específica
+10 de agosto de 2023
+Libia
+Específica
+03 de septiembre de 2025
+Malí
+Específica
+04 de agosto de 2023
+Nicaragua
+Específica
+15 de mayo de 2024
+Regiones de Ucrania (Crimea, Donetsk y Luhansk)
+General
+13 de agosto de 2025
+República Centroafricana
+Específica
+08 de diciembre de 2023
+República Democrática del Congo
+Específica
+12 de agosto de 2025
+Rusia
+Específica (con ampliaciones significativas)
+09 de octubre de 2025
+Somalia
+Específica
+24 de mayo de 2023
+Sudán
+Específica
+12 de septiembre de 2025
+Sudán del Sur
+Específica
+08 de diciembre de 2023
+Siria
+Específica
+24 de septiembre de 2025
+Venezuela
+Específica
+07 de julio de 2025
+Yemen
+Específica
+18 de noviembre de 2021
+Balcanes
+Específica
+28 de mayo de 2025
 
 
 
-
-Listado de países sancionados:
-
+Países de Alto Riesgo GAFI
 
 País
-	País Sancionado
-	Afganistán
-	Si
-	Bielorrusia
-	Si
-	Bosnia y Herzegovina
-	Si
-	Burundi
-	Si
-	China
-	Si
-	Cisjordania
-	Si
-	Corea del Norte
-	Si
-	Cuba
-	Si
-	Darfur
-	Si
-	Etiopía
-	Si
-	Guatemala
-	Si
-	Guinea
-	Si
-	Guinea Bissau
-	Si
-	Haití
-	Si
-	Hong Kong
-	Si
-	Irak
-	Si
-	Irán
-	Si
-	Líbano
-	Si
-	Libia
-	Si
-	Malí
-	Si
-	Moldavia
-	Si
-	Montenegro
-	Si
-	Myanmar (Birmania)
-	Si
-	Nicaragua
-	Si
-	Nigeria
-	Si
-	Nigeria
-	Si
-	República de África Central
-	Si
-	República Democrática del Congo
-	Si
-	Rusia
-	Si
-	Serbia
-	Si
-	Siria
-	Si
-	Somalia
-	Si
-	Sudán
-	Si
-	Sudán del Sur
-	Si
-	Túnez
-	Si
-	Turquía
-	Si
-	Ucrania
-	Si
-	Venezuela
-	Si
-	Yemen
-	Si
-	Zimbabue
-	Si
-	
+Lista GAFI
+Fecha de Actualización
+Corea del Norte (DPRK)
+Lista Negra
+27 de junio de 2025
+Irán
+Lista Negra
+27 de junio de 2025
+Myanmar
+Lista Negra
+27 de junio de 2025
+Barbados
+Lista Gris
+27 de junio de 2025
+Bulgaria
+Lista Gris
+27 de junio de 2025
+Burkina Faso
+Lista Gris
+27 de junio de 2025
+Camerún
+Lista Gris
+27 de junio de 2025
+Croacia
+Lista Gris
+27 de junio de 2025
+Filipinas
+Lista Gris
+27 de junio de 2025
+Gibraltar
+Lista Gris
+27 de junio de 2025
+Haití
+Lista Gris
+27 de junio de 2025
+Jamaica
+Lista Gris
+27 de junio de 2025
+Malí
+Lista Gris
+27 de junio de 2025
+Mozambique
+Lista Gris
+27 de junio de 2025
+Nigeria
+Lista Gris
+27 de junio de 2025
+República Democrática del Congo
+Lista Gris
+27 de junio de 2025
+Senegal
+Lista Gris
+27 de junio de 2025
+Siria
+Lista Gris
+27 de junio de 2025
+Sudáfrica
+Lista Gris
+27 de junio de 2025
+Sudán del Sur
+Lista Gris
+27 de junio de 2025
+Tanzania
+Lista Gris
+27 de junio de 2025
+Turquía
+Lista Gris
+27 de junio de 2025
+Uganda
+Lista Gris
+27 de junio de 2025
+Vietnam
+Lista Gris
+27 de junio de 2025
+Yemen
+Lista Gris
+27 de junio de 2025
 
-Listado de países de alto riesgo
 
+Países de Alto Riesgo y Sancionados - Consejo de Seguridad de la ONU
+
+País/Entidad
+Tipo de Sanciones Principales
+Última Actualización de la Lista/Resolución
+Corea del Norte
+Embargo de armas, congelación de activos, prohibición de viajes, sanciones sectoriales (carbón, textiles, mariscos).
+17 de septiembre de 2024
+Haití
+Embargo de armas dirigido, congelación de activos y prohibición de viajes a individuos y entidades específicas.
+8 de julio de 2025
+Irak
+Congelación de activos de individuos del anterior régimen, embargo de armas (con excepciones).
+5 de agosto de 2025
+ISIL (Da'esh) y Al-Qaeda
+Congelación de activos, embargo de armas y prohibición de viajes a individuos y entidades asociadas.
+6 de octubre de 2025
+Libia
+Embargo de armas, prohibición de viajes y congelación de activos, medidas sobre la exportación ilícita de petróleo.
+20 de diciembre de 2024
+Malí
+Congelación de activos y prohibición de viajes a individuos y entidades que obstruyen el proceso de paz.
+4 de agosto de 2023
+República Centroafricana
+Embargo de armas, prohibición de viajes y congelación de activos.
+8 de diciembre de 2023
+República Democrática del Congo
+Embargo de armas (a grupos armados), prohibición de viajes y congelación de activos.
+12 de agosto de 2025
+Somalia
+Embargo de armas (con exenciones), prohibición de exportación de carbón, prohibición de componentes de IED.
+24 de mayo de 2023
+Sudán
+Embargo de armas (para Darfur), prohibición de viajes y congelación de activos.
+12 de septiembre de 2025
+Sudán del Sur
+Embargo de armas, prohibición de viajes y congelación de activos.
+8 de diciembre de 2023
+Talibanes
+Congelación de activos, prohibición de viajes y embargo de armas.
+22 de agosto de 2025
+Yemen
+Embargo de armas dirigido, prohibición de viajes y congelación de activos.
+30 de julio de 2024
+
+
+
+Países de Alto Riesgo y Sancionados - Unión Europea
 
 País
-	País Sancionado
-	Angola
-	No
-	Anguila
-	No
-	Antigua y Barbuda
-	No
-	Argelia
-	No
-	Barbados
-	No
-	Belice
-	No
-	Brunei
-	No
-	Bulgaria
-	No
-	Burkina Faso
-	No
-	Camerún
-	No
-	Costa de Marfil
-	No
-	Croacia
-	No
-	Emiratos Árabes Unidos
-	No
-	Eswatini
-	No
-	Fiji
-	No
-	Filipinas
-	No
-	Gibraltar
-	No
-	Guam
-	No
-	Islas Vírgenes Británicas
-	No
-	Islas Vírgenes de los EE.UU.
-	No
-	Jamaica
-	No
-	Kenia
-	No
-	Laos
-	No
-	Mónaco
-	No
-	Mozambique
-	No
-	Namibia
-	No
-	Nepal
-	No
-	Palaos
-	No
-	Panamá
-	No
-	Samoa
-	No
-	Samoa Americana
-	No
-	Senegal
-	No
-	Seychelles
-	No
-	Sudáfrica
-	No
-	Tanzania
-	No
-	Trinidad y Tobago
-	No
-	Uganda
-	No
-	Vanuatu
-	No
-	Vietnam
-	No
+Tipo de Designación
+Fecha de Última Actualización
+Afganistán
+Deficiencias AML/CFT
+5 de agosto de 2025
+Afganistán
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Argelia
+Deficiencias AML/CFT
+5 de agosto de 2025
+Angola
+Deficiencias AML/CFT
+5 de agosto de 2025
+Bielorrusia
+Sanciones / Medidas Restrictivas
+18 de septiembre de 2025
+Birmania (Myanmar)
+Deficiencias AML/CFT
+5 de agosto de 2025
+Birmania (Myanmar)
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Burkina Faso
+Deficiencias AML/CFT
+5 de agosto de 2025
+Burundi
+Sanciones / Medidas Restrictivas
+22 de septiembre de 2025
+Camerún
+Deficiencias AML/CFT
+5 de agosto de 2025
+China
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Corea del Norte (DPRK)
+Deficiencias AML/CFT
+5 de agosto de 2025
+Corea del Norte (DPRK)
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Costa de Marfil
+Deficiencias AML/CFT
+5 de agosto de 2025
+Guatemala
+Sanciones / Medidas Restrictivas
+12 de junio de 2025
+Guinea
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Guinea-Bissau
+Sanciones / Medidas Restrictivas
+22 de septiembre de 2025
+Haití
+Deficiencias AML/CFT
+5 de agosto de 2025
+Haití
+Sanciones / Medidas Restrictivas
+29 de julio de 2025
+Irán
+Deficiencias AML/CFT
+5 de agosto de 2025
+Irán
+Sanciones / Medidas Restrictivas
+29 de septiembre de 2025
+Irak
+Sanciones / Medidas Restrictivas
+5 de agosto de 2025
+Kenia
+Deficiencias AML/CFT
+5 de agosto de 2025
+Laos
+Deficiencias AML/CFT
+5 de agosto de 2025
+Líbano
+Deficiencias AML/CFT
+5 de agosto de 2025
+Líbano
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Libia
+Sanciones / Medidas Restrictivas
+29 de julio de 2025
+Malí
+Deficiencias AML/CFT
+5 de agosto de 2025
+Malí
+Sanciones / Medidas Restrictivas
+18 de julio de 2025
+Moldavia
+Sanciones / Medidas Restrictivas
+28 de agosto de 2025
+Mónaco
+Deficiencias AML/CFT
+5 de agosto de 2025
+Mozambique
+Deficiencias AML/CFT
+5 de agosto de 2025
+Namibia
+Deficiencias AML/CFT
+5 de agosto de 2025
+Nepal
+Deficiencias AML/CFT
+5 de agosto de 2025
+Nicaragua
+Sanciones / Medidas Restrictivas
+29 de septiembre de 2025
+Níger
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Nigeria
+Deficiencias AML/CFT
+5 de agosto de 2025
+República Centroafricana
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+República Democrática del Congo
+Deficiencias AML/CFT
+5 de agosto de 2025
+República Democrática del Congo
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Rusia
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Siria
+Deficiencias AML/CFT
+5 de agosto de 2025
+Siria
+Sanciones / Medidas Restrictivas
+22 de septiembre de 2025
+Somalia
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Sudáfrica
+Deficiencias AML/CFT
+5 de agosto de 2025
+Sudán
+Sanciones / Medidas Restrictivas
+18 de julio de 2025
+Sudán del Sur
+Deficiencias AML/CFT
+5 de agosto de 2025
+Sudán del Sur
+Sanciones / Medidas Restrictivas
+8 de julio de 2025
+Tanzania
+Deficiencias AML/CFT
+5 de agosto de 2025
+Trinidad y Tobago
+Deficiencias AML/CFT
+5 de agosto de 2025
+Túnez
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Turquía
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Ucrania (integridad territorial)
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Vanuatu
+Deficiencias AML/CFT
+5 de agosto de 2025
+Venezuela
+Deficiencias AML/CFT
+5 de agosto de 2025
+Venezuela
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Vietnam
+Deficiencias AML/CFT
+5 de agosto de 2025
+Yemen
+Deficiencias AML/CFT
+5 de agosto de 2025
+Yemen
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+Zimbabue
+Sanciones / Medidas Restrictivas
+11 de septiembre de 2025
+
+
